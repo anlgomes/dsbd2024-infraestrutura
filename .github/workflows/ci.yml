@@ -1,0 +1,19 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Bash
+      run: sudo apt-get install -y bash
+
+    - name: Run script
+      run: |
+        chmod +x baixaDadosTransp.sh
+        ./baixaDadosTransp.sh 01 05 10 2024
