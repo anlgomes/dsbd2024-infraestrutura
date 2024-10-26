@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# estive aqui Andre 
 # Verifica se o número correto de parâmetros foi passado
 if [ "$#" -ne 4 ]; then
     echo "Uso: ./baixaDadosTransp.sh diaIni diaFim mes ano"
