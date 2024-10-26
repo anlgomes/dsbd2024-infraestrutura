@@ -7,5 +7,5 @@ Essa disciplina foi ministrada pelos professores *Lucas Ferrari* e *Paulo Ricard
 #### Apresentação
 Este material é um exemplo didático para ilustrar o funcionamento do ***Github***. 
 ##### Script
-Este repositório irá conter o *script* feito como a <u>terceira atividade</u> da primeira parte da disciplina de Infraestrutura Computacional. Essa primeira parte foi ministrada pelo professor Lucas Ferrari.
-E a segunda parte da disciplina foi ministrada pelo professor Paulo Ricardo Lisboa de Almeida.
+Este repositório irá conter o *script* feito como a _terceira atividade_ da _primeira parte_ da disciplina de **Infraestrutura Computacional**. Essa primeira parte foi ministrada pelo professor *Lucas Ferrari*.
+E a segunda parte da disciplina foi ministrada pelo professor *Paulo Ricardo Lisboa de Almeida*.
